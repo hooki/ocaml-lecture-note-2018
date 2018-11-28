@@ -1,0 +1,3 @@
+let a = 4;
+def f(x) = a + x;
+f(6)

@@ -1,0 +1,6 @@
+let distance_square (x1, y1, x2, y2) =
+  let x = x2 - x1 in
+  let y = y2 - y1 in
+  x * x + y * y
+  in
+distance_square (1, 2, 4, 6)

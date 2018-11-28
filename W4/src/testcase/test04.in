@@ -1,0 +1,3 @@
+let pi = 3.14;
+def area(r) = pi * r * r;
+area(10)

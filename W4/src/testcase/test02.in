@@ -1,0 +1,2 @@
+def sigma(n) = (n+1)*n/2;
+sigma(100)
