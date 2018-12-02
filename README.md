@@ -24,3 +24,6 @@ Neural Network 설명 및 계산기 만들기 1단계
 
 ## W8
 타입 검사 알고리즘
+
+## W9
+Polymorphic Type System
