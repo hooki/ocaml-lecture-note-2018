@@ -1,1 +1,1 @@
-let x = 1 + true in x
+let x = 1 + true in 1
