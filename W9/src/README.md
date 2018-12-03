@@ -23,7 +23,7 @@ $ git pull
 
 ## 빌드
 ```
-$ cd W8/src
+$ cd W9/src
 $ make
 ```
 
